@@ -1,4 +1,6 @@
-# Project 1: snake_game
+# Projects in Python
+
+## Project 1: snake_game
 The creation of the original snake game (no touching the sides!)
 
 The game is simple. You start out as a small snake. Dots will appear on the screen - they are your food. 
