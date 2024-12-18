@@ -24,3 +24,10 @@ Have fun!
 The Pomodoro Technique is a time management method that involves breaking work into 25-minute intervals, called pomodoros, separated by short breaks. The technique was developed by Francesco Cirillo in the late 1980s while he was a university student.
 
 I have set the time intervals to one minute each for testing purposes. To use the app properly, edit the time interval lenghts in the main.py file. 
+
+## Project 3: Pong!
+
+Enjoy the iconic game of pong as you do your best to keep the ball from missing your padles as long as you can. The speed / difficutly increases over time to keep the game interesting. The controls are as follows:
+
+Left paddle: use the W and S keys to go up and down
+Right paddle: use the up and down arrow keys to go up and down
